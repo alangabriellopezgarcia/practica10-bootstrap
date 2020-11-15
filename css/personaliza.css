@@ -1,0 +1,29 @@
+
+html, body{
+    height: 100%;
+    background-color: CRIMSON;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(rgba(139, 0, 139, 0.1),rgba(139, 0, 139, 0.1)), url(../img/galaxia.webp);
+    background-size: cover;
+}
+
+.container{
+    height: 90%;
+    background-color: red;
+   
+}
+
+.btn-primary{
+    background: yellow;
+}
+
+a .fab{
+    color: #FFFF00;
+    font-size: 55px;
+    margin: 0 15px;
+    color: rgb(255, 255, 0);
+}
